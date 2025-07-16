@@ -1,6 +1,7 @@
 # ProShop eCommerce Platform
 
-> eCommerce platform built with the MERN stack & Redux.
+> eCommerce platform built with the MERN stack.
+> link - https://gideonkim.onrender.com/
 
 <img src="./frontend/public/images/screens.png">
 
